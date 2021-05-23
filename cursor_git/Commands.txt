@@ -1,0 +1,198 @@
+695  git chekout - b HW#1Done
+  696  git checkout - b HW#1Done
+  697  git checkout -b HW#1Done
+  698  mkdir linux_lecture
+  699  touch notes.txt
+  700  cp notes.txt linux_lecture/
+  701  ls
+  702  cd l
+  703  cd linux_lecture/
+  704  ls
+  705  ls -a xr
+  706  ls -la
+  707  cd
+  708  ls -la
+  709  ls --help
+  710  ls -rx
+  711  ls -lxr
+  712  ls -axr
+  713  cd Python-Martian-Manhunter-adv-/
+  714  ls
+  715  mv notes.txt new_notes.txt
+  716  ls
+  717  rm new_notes.txt && cd linux_lecture/ && rm notes.txt
+  718  ls
+  719  cd ..
+  720  ls
+  721  cd linux_lecture/
+  722  touch homework.sh
+  723  touch mw.sh
+  724  ts
+  725  ls
+  726  rm mw.sh
+  727  touch hw.sh
+  728  touch hw1.sh
+  729  touch hw2.sh
+  730  touch hw.txt
+  731  ls || grep .txt
+  732  ls | grep .txt
+  733  cp | grep .txt lecture_new
+  734  cp *.txt new_lecture
+  735  ls
+  736  rm new_lecture
+  737  ls
+  738  mkdir Lecture_new
+  739  ls
+  740  cp *.txt new_lecture
+  741  ls
+  742  rm new_lecture
+  743  cp linux_lecture/*.txt new_lecture
+  744  history
+  745  cp *.txt new+lecture
+  746  ls
+  747  rm
+  748  cp *.txt Lecture_new/
+  749  ls
+  750  cd Lecture_new/
+  751  ls
+  752  cd ..
+  753  ls
+  754  echo 'linux_lecture' homework.sh
+  755  echo > 'linux_lecture' homework.sh
+  756  cat homework.sh
+  757  echo linux_lecture > homework.sh
+  758  cat homework.sh
+  759  chmod 400 homework.sh
+  760  ls -ls
+  761  cat homework.sh
+  762  cat homework.sh
+  763  chmod 700 homework.sh
+  764  sh homework.sh
+  765  homework.sh.sh
+  766  homework.sh
+  767  head 7 homework.sh
+  768  head -7 homework.sh
+  769  cd ..
+  770  ls
+  771  mkdir cursor_git
+  772  cd cursor_git/
+  773  touch first.py
+  774  git status
+  775  cd ..
+  776  ls
+  777  git status
+  778  cd cursor_git/
+  779  git add ./
+  780  git status
+  781  git commit -m "adding fitst.py"
+  782  git log
+  783  touch second.py
+  784  git status
+  785  add second.py
+  786  git add second.py
+  787  git commit -m "adding second.py"
+  788  rm first.py
+  789  git status
+  790  git add first.py
+  791  git commit -m "removing first.py"
+  792  git log
+  793  git push original master
+  794  git push origin master
+  795  git push
+  796  git push --set-upstream origin HW#1Done
+  797  git branch first
+  798  git branch
+  799  git branch master
+  800  git branch -d first
+  801  git checkout master
+  802  git branch first
+  803  git branch --help
+  804  git branch
+  805  cd ..
+  806  git branch first
+  807  git branch second
+  808  ls
+  809  cd linux_lecture/
+  810  ls
+  811  ls -la
+  812  git pull
+  813  gic branch master
+  814  git branch master
+  815  git cheechout master
+  816  git chechout master
+  817  git checkout master
+  818  ls
+  819  git branch
+  820  git checkout HW#1Done
+  821  ls
+  822  cd Lecture_new/
+  823  ls
+  824  history
+  825  git branch master
+  826  git checkout master
+  827  git pull
+  828  ls
+  829  cd ..
+  830  ls
+  831  cd Lecture_new/
+  832  ls
+  833  cd ..
+  834  ls
+  835  cd ..
+  836  ls
+  837  cd cursor_git/
+  838  git checkout first
+  839  git status
+  840  git stash second.py
+  841  git stash
+  842  git chekout first
+  843  git checkout first
+  844  git stash pop
+  845  cd ..
+  846  git stash pop
+  847  git status
+  848  git add cursor_git/second.py
+  849  git commit -m "Changing second.py"
+  850  git push
+  851  git push --set-upstream origin first
+  852  git checkout first
+  853  git status
+  854  git add cursor_git/second.py
+  855  git commit - m "Changing second.py"
+  856  git commit -m "Changing second.py"
+  857  git push
+  858  git checkout master
+  859  git pull
+  860  cd Python-Martian-Manhunter-adv-/
+  861  ls
+  862  git pull
+  863  ls
+  864  git remote -v
+  865  git pull upstream master
+  866  gls
+  867  ls
+  868  cd l
+  869  cd lectures/
+  870  ls
+  871  cd ..
+  872  ls
+  873  cd ' homeworks'/
+  874  ls
+  875  git checkout -b "HW#2Done"
+  876  mkdir HW#2_OOP
+  877  touch animal.py
+  878  rm animal.py
+  879  cd HW#2_OOP/
+  880  touch animal.py
+  881  git status
+  882  cd ..
+  883  git status
+  884  git add Hw#2_OOP
+  885  git status
+  886  git add ../homeworks/
+  887  git status
+  888  git add HW#2_OOP/
+  889  git add ../.idea/
+  890  git add ../linux_lecture/
+  891  git status
+  892  git commit -m "HW#2Done"
